@@ -2,10 +2,19 @@
   color: #008B8B;
 }
 
-.text-blue {
-  color: #00008B;
+.text-teal {
+  color: #2F4F4F;
 }
 
-#back-cyan{
-  background: #008B8B;
+.back-gray{
+  background: #F0FFF0;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.font-size{
+  font-size: 18px;
+  font-weight: 500;
 }
